@@ -42,7 +42,7 @@ Make sure you have the following dependencies installed:
   pip install pdf2image
 ```
 - tkinter: This package is used for creating the graphical user interface (GUI).
-  ```python
+```python
   pip install tk
 ```
 
