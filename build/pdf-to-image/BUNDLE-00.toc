@@ -1,0 +1,3 @@
+([('pdf-to-image',
+   '/Users/mariostzialidis/Desktop/Python/PDF-2-IMG/dist/pdf-to-image',
+   'EXECUTABLE')],)
