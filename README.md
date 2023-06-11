@@ -33,6 +33,18 @@ The updated version of the script includes the following new functionalities:
 - Modified the conversion process to save the resulting images as JPEG files with names "output_0.jpg", "output_1.jpg", and so on, in the selected output directory.
 - Improved the UI by adding a label and entry field for the output directory selection.
 
+## Getting Started
+
+Clone the Project into your directory
+```bash
+    git clone https://github.com/whoismarios/PDF-to-Image.git
+```
+
+Change the directory
+```bash
+    cd PDF-to-Image
+```
+
 ## Packages and Imports
 
 Make sure you have the following dependencies installed:
